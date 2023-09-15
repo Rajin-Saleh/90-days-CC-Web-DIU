@@ -1,0 +1,3 @@
+before doing in code editor
+
+pip install pyjokes
